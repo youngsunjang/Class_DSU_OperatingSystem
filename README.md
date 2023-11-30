@@ -37,10 +37,10 @@ I conducted 10 repetitions for each NP option to calculate the average running t
 * As noted in section 5 below, the required library PyTorch already employed the OpenMP method, NP=1 experiment can be regarded as Sequential program's performance.
 
 NP=1 (Sequential)
-Epoch 1950, loss = 3.4145970344543457, accuracy = 0.2850042601533655
-Elapsed Time: 350.84901762008667 seconds
-Epoch 1950, loss = 3.4145970344543457, accuracy = 0.2850042601533655
-Elapsed Time: 343.2357666492462 seconds
+Epoch 1950, loss = 3.4145970344543457, accuracy = 0.2850042601533655\\
+Elapsed Time: 350.84901762008667 seconds\\
+Epoch 1950, loss = 3.4145970344543457, accuracy = 0.2850042601533655\\
+Elapsed Time: 343.2357666492462 seconds\\
 Epoch 1950, loss = 3.4145970344543457, accuracy = 0.2850042601533655
 Elapsed Time: 344.023868560791 seconds
 Epoch 1950, loss = 3.4145970344543457, accuracy = 0.2850042601533655
